@@ -1,6 +1,6 @@
 # What Makes One Programming Language "Better" Than Another?
-## Introduction
-The question of what makes one programming language "better" than another has fascinated developers and researchers alike for decades. Some favor languages for their speed, others for their syntax, flexibility, or strong community support. But what are the concrete factors that influence this judgment? And how has the notion of a "better" language evolved over time?
+## Introduction (Exploring using LLM)
+To explore these questions, I used GPT4o (GPT-4 architecture), and here is a summary of the investigation, followed by key findings such as the topic's evolution, subfields contributing to the exploration, and influential researchers and works. The question of what makes one programming language "better" than another has fascinated developers and researchers alike for decades. Some favor languages for their speed, others for their syntax, flexibility, or strong community support. But what are the concrete factors that influence this judgment? And how has the notion of a "better" language evolved over time?
 
 This document explores this question through the lens of programming language theory, taking into account historical developments, contributions from various subfields, and insights from influential researchers. By leveraging OpenAI's GPT-4 Large Language Model (LLM), I embarked on a journey to understand the underlying factors that contribute to this debate, as well as how it has evolved over time.
 
